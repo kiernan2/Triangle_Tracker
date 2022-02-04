@@ -1,0 +1,12 @@
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\Triangle.csprojAssemblyReference.cache
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfo.cs
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\bin\Debug\net5.0\Triangle.deps.json
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\bin\Debug\net5.0\Triangle.dll
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\bin\Debug\net5.0\ref\Triangle.dll
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\bin\Debug\net5.0\Triangle.pdb
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\Triangle.dll
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\ref\Triangle.dll
+C:\Users\Kiernan\Desktop\Code\Triangle_Tracker\Triangle\obj\Debug\net5.0\Triangle.pdb
